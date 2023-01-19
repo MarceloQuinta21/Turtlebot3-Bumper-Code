@@ -1,0 +1,3 @@
+<launch>
+  <node name="bumper_node" pkg="bumper_pkg" type="bumper.py" output="screen"/>
+</launch>
